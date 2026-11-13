@@ -2,7 +2,7 @@ defmodule PhoenixFlags.MixProject do
   use Mix.Project
 
   @version "0.11.0"
-  @source_url "https://github.com/fltoss/phoenix_flags"
+  @source_url "https://github.com/wkirschbaum/phoenix_flags"
 
   def project do
     [
